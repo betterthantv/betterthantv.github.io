@@ -1,0 +1,36 @@
+<html>
+<body>
+<h4>test</h4>
+
+<table border=1>
+<tr>
+<img src="./pics/allbw.jpg" height="200" width="300">
+<td>
+<td>
+<td>
+
+
+<tr>
+<td>
+<img src="./pics/allbw.jpg" height="200" width="300">
+<td>
+<td>
+
+<tr>
+<td>
+<img src="./pics/allbw.jpg" height="200" width="300">
+<td>
+<td>
+
+
+
+</table>
+
+
+
+
+
+
+
+</body>
+</html>
